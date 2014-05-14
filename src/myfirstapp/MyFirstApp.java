@@ -18,6 +18,9 @@ public class MyFirstApp {
     public static void main(String[] args) {
         System.out.println("hell World");
         System.out.println("My name is teerawat boonnun");
+        
+        
+        System.out.println("Information Technology \nUniversity of Phayao");
     }
     
 }
